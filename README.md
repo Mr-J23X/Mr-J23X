@@ -1,4 +1,3 @@
-[![MasterHead](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3VnNmkzMDR1ZmtrZGFrcWpwbTNyamgzdmJsM3JhbGV1NnJnemJqZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Jonathan</h1>
 <h3 align="center">I am a developer and mechanic in Tegalasri.</h3>
 <img align="right" alt="ayam" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3VnNmkzMDR1ZmtrZGFrcWpwbTNyamgzdmJsM3JhbGV1NnJnemJqZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
